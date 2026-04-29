@@ -85,3 +85,8 @@ Final Price ≈ ₹2.67 Crore
 ```bash
 pip install -r requirements.txt
 python app.py
+👩‍💻 Author
+
+Kavyashree DK
+Final Year IT Student
+
