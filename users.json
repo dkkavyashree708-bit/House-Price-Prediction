@@ -1,0 +1,55 @@
+{
+    "admin@smartestate.com": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "user_type": "admin",
+        "created_at": "2026-04-10 10:00:00.000000",
+        "name": "Super Admin",
+        "last_login": null
+    },
+    "admin@bengaluruhpi.com": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "user_type": "admin",
+        "created_at": "2026-04-08 18:07:05.536699",
+        "name": "Super Admin",
+        "last_login": "2026-04-10 09:00:00"
+    },
+    "kavya@gmail.com": {
+        "password": "464167ad1996eb8a464c3725652b99fbec53b6b7df5f48b326c08ba1f500d4c7",
+        "user_type": "user",
+        "created_at": "2026-04-08 18:15:02.736711",
+        "name": "Kavya",
+        "last_login": "2026-04-09 15:30:00"
+    },
+    "amit@example.com": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "user_type": "user",
+        "created_at": "2026-04-08 12:00:00.000000",
+        "name": "Amit Patel",
+        "last_login": "2026-04-08 22:30:00"
+    },
+    "email@example.com": {
+        "password": "sha256_hash_here",
+        "user_type": "user",
+        "created_at": "2026-04-10 10:00:00.000000",
+        "name": "Full Name",
+        "last_login": null
+    },
+    "abc195@gmail.com": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "user_type": "user",
+        "created_at": "2026-04-11 09:32:24.556482",
+        "name": "anu"
+    },
+    "radha123@gmail.com": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "user_type": "user",
+        "created_at": "2026-04-26 22:02:40.737776",
+        "name": "radha"
+    },
+    "ramya@gmail.com": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "user_type": "user",
+        "created_at": "2026-04-26 22:04:56.431931",
+        "name": "Radha"
+    }
+}
